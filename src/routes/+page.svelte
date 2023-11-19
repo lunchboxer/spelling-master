@@ -4,6 +4,7 @@
   let week = 1
   $: list = level === 'A' ? data?.level4List : data?.level3List
   $: glossary = level === 'A' ? data?.level4glossary : data?.level3glossary
+  let showDefinitions = true
 </script>
 
 <h1>Spelling Master</h1>
@@ -12,20 +13,34 @@
   Spelling Master enables you to view all Grade 4 spelling words with simple
   definitions and example sentences.
 </p>
-<h2>Level</h2>
 
-<select bind:value={level}>
-  <option value="A">A</option>
-  <option value="B">B</option>
-</select>
+<div class="grid">
+  <fieldset>
+    <label for="week">Week</label>
+    <select id="week" bind:value={week}>
+      {#each Array.from({ length: 36 }) as _, index}
+        <option value={index + 1}>{index + 1}</option>
+      {/each}
+    </select>
+  </fieldset>
+  <fieldset>
+    <label for="level">Level</label>
 
-<h2>Week</h2>
-<select bind:value={week}>
-  {#each Array.from({ length: 36 }) as _, index}
-    <option value={index + 1}>{index + 1}</option>
-  {/each}
-</select>
+    <input bind:group={level} type="radio" name="level" value="A" /> A
+    <input bind:group={level} type="radio" name="level" value="B" /> B
+  </fieldset>
 
+  <fieldset>
+    <label for="definitions"> Show definitions </label>
+    <input
+      type="checkbox"
+      bind:checked={showDefinitions}
+      id="definitions"
+      name="definitions"
+      role="switch"
+    />
+  </fieldset>
+</div>
 {#if list}
   <h2>Words</h2>
   <p>{list[week]?.description}</p>
@@ -33,7 +48,8 @@
     {#if list[week]}
       {#each list[week].list as word}
         <li>
-          <strong>{word}</strong>: {glossary[word] || 'no definition available'}
+          <strong>{word}</strong>{#if showDefinitions}: {glossary[word] ||
+              'no definition available'}{/if}
         </li>
       {/each}
     {/if}
