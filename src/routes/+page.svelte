@@ -7,8 +7,6 @@
   let showDefinitions = true
 </script>
 
-<h1>Spelling Master</h1>
-
 <p>
   Spelling Master enables you to view all Grade 4 spelling words with simple
   definitions and example sentences.

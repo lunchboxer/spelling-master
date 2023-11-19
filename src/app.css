@@ -1,3 +1,7 @@
-body {
-  font-family: lexend, sans-serif;
+@font-face {
+  font-family: Lexend;
+  src: url('/fonts/Lexend-Light.ttf');
+}
+--root {
+  font-family: Lexend, sans-serif;
 }
