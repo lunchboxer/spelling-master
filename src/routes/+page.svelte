@@ -27,6 +27,7 @@
     <label for="level">Level</label>
 
     <input bind:group={level} type="radio" name="level" value="A" /> A
+    <br />
     <input bind:group={level} type="radio" name="level" value="B" /> B
   </fieldset>
 
