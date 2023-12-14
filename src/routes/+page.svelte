@@ -1,4 +1,6 @@
 <script>
+  import Wordlist from '$lib/Wordlist.svelte'
+
   export let data
   let level = 'A'
   let week = 1
@@ -40,16 +42,5 @@
   </fieldset>
 </div>
 {#if list}
-  <h2>Words</h2>
-  <p>{list[week]?.description}</p>
-  <ol>
-    {#if list[week]}
-      {#each list[week].list as word}
-        <li>
-          <strong>{word}</strong>{#if showDefinitions}: {glossary[word] ||
-              'no definition available'}{/if}
-        </li>
-      {/each}
-    {/if}
-  </ol>
+  <Wordlist {list} {week} {glossary} {showDefinitions} />
 {/if}
