@@ -5,9 +5,8 @@
   import '../app.css'
 </script>
 
-<Header />
-
 <main class="container">
+  <Header />
   <slot />
 </main>
 
@@ -15,6 +14,6 @@
 
 <style>
   main {
-    margin-top: 4rem;
+    margin-top: 1rem;
   }
 </style>

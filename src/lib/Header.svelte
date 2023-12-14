@@ -13,7 +13,7 @@
     font-size: 1.5rem;
   }
   nav {
-    padding: 0 4rem;
+    padding: 0 0 2rem;
     background: var(--background-color);
     width: 100%;
   }
