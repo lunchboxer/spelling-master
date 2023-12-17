@@ -41,6 +41,7 @@
     />
   </fieldset>
 </div>
+<a href="{week}/{level}/wordsearch" role="button">View Word Search</a>
 {#if list}
   <Wordlist {list} {week} {glossary} {showDefinitions} />
 {/if}

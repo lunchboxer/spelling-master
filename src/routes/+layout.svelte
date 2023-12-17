@@ -14,6 +14,15 @@
 
 <style>
   main {
+    font-family: 'Lexend', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
     margin-top: 1rem;
+  }
+  @media print {
+    main {
+      width: 100%;
+      max-width: unset;
+      margin: 0;
+      padding: 0;
+    }
   }
 </style>

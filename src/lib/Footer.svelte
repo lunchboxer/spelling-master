@@ -1,8 +1,19 @@
 <script>
+  import { page } from '$app/stores'
+
   const icp = '湘ICP备20004695号-1'
+  function goTop() {
+    document.body.scrollIntoView()
+  }
 </script>
 
 <footer class="no-print">
+  <p>
+    {#if $page.route.id !== '/sitemap'}
+      <a href="/sitemap">Sitemap</a>&nbsp;|&nbsp;
+    {/if}
+    <a href="#top" on:click={goTop}> Back to top </a>
+  </p>
   <p>
     <span class="copy">&copy; 2023 James Smith</span>
     {#if icp}

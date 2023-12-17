@@ -3,5 +3,36 @@
   src: url('/fonts/Lexend-Light.ttf');
 }
 --root {
-  font-family: Lexend, sans-serif;
+  font-family: 'Lexend', 'Helvetica Neue', 'Helvetica', 'Arial';
+}
+
+body {
+  font-family: 'Lexend', 'Helvetica Neue', 'Helvetica', 'Arial';
+}
+h1 {
+  font-family: 'Lexend', 'Helvetica Neue', 'Helvetica', 'Arial';
+}
+h2 {
+  font-family: 'Lexend', 'Helvetica Neue', 'Helvetica', 'Arial';
+}
+
+@media print {
+  body {
+    font-size: 14pt;
+    line-height: 1.6;
+    margin: 0 auto;
+    max-width: unset;
+    padding: 0;
+    text-rendering: optimizeLegibility;
+  }
+  .print-only {
+    display: unset;
+  }
+  .no-print {
+    display: none;
+  }
+  @page {
+    size: A4;
+    margin: 2cm;
+  }
 }
