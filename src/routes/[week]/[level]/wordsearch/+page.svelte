@@ -7,7 +7,6 @@
   const { level3List, level4List } = data ?? {}
   const list = level === 'A' ? level4List : level3List
   const puzzle = generate({ words: list[week].list, width, height })
-  const showWords = false
 
   function makeMatrix(array, size, out) {
     out = out || []
@@ -34,13 +33,11 @@
         </div>
       {/each}
     </div>
-    {#if showWords}
-      <div class="words">
-        {#each puzzle.words as word}
-          <div class="word">{word}</div>
-        {/each}
-      </div>
-    {/if}
+    <div class="words no-print">
+      {#each puzzle.words as word}
+        <div class="word">{word}</div>
+      {/each}
+    </div>
   </div>
 {/if}
 
