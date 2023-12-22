@@ -23,6 +23,9 @@ airy
 almost
 : Nearly, but not completely. "She almost finished the long race."
 
+along
+: Moving forward on a path or route. "We walked along the trail by the lake."
+
 aloud
 : Out loud, not silently. "The teacher read the story aloud to the class."
 
@@ -588,7 +591,10 @@ follow
 football
 : Game played by teams on a field. "We tossed the football around."
 
-formally
+forest
+: An area with many trees growing close together. "The deer lived in the shady green forest."
+
+"formally
 : In a proper or official way. "The treaty was formally signed by both kings."
 
 formula
@@ -596,6 +602,9 @@ formula
 
 fountain
 : A jet of shooting water. "We drank cold water from the courtyard fountain."
+
+fourth
+: Coming after third in order. "My fourth child was born in September."
 
 fraction
 : Part of a whole expressed as a number over another. "Two-thirds is a fraction."
@@ -1094,6 +1103,9 @@ pardon
 particle
 : Extremely tiny piece of matter. "Dust particles floated through the air."
 
+parties
+: Fun gatherings with food, games and friends. "I love going to birthday parties!"
+
 party
 : A social gathering or celebration. "Birthday parties are fun."
 
@@ -1427,8 +1439,14 @@ stand
 star
 : A luminous celestial body like the sun. "Stars twinkled brightly in the night sky."
 
+stars
+: Bright points of light in the night sky. "The stars twinkled above our campsite."
+
 start
 : Begin or originate. "Let's start our project by gathering materials."
+
+started
+: Began doing something. "We started our homework right after school."
 
 state
 : A governed territory or province. "Sacramento is the capital of the state of California."
@@ -1478,6 +1496,9 @@ sunshine
 swim
 : Propelling oneself through water. "I can swim across the entire pool without stopping."
 
+swimming
+: Moving through water by moving your body. "I love swimming on hot summer days."
+
 syllable
 : A unit of speech with one vowel sound. "The word computer has three syllables."
 
@@ -1488,6 +1509,9 @@ table
 
 talk
 : Communicate by speaking. "Let's talk about what to do next."
+
+talked
+: Spoke words out loud. "My friend and I talked about our favorite animals."
 
 tallest
 : Of greatest height. "The tallest tree in the forest was over 100 feet high."

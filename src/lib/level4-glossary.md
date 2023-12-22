@@ -387,9 +387,6 @@ choir
 chord
 : A combination of musical tones. "She practiced playing different chords on the piano."
 
-cirque
-: A steep, round mountain basin. "Glaciers carved out the dramatic cirque long ago."
-
 citizenship
 : The status of being a citizen. "Citizenship comes with rights and responsibilities."
 
