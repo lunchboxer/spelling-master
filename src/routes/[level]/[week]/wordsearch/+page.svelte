@@ -1,12 +1,15 @@
 <script>
   import { generate } from '@sbj42/word-search-generator'
   export let data
-  const { level, week } = data
-  const width = 16
-  const height = 16
-  const { level3List, level4List } = data ?? {}
-  const list = level === 'A' ? level4List : level3List
-  const puzzle = generate({ words: list[week].list, width, height })
+  const { level, week, lists } = data
+  let width = 16
+  let height = 16
+  if (level === '1') {
+    width = 12
+    height = 12
+  }
+  const list = lists[level - 1]
+  const puzzle = generate({ words: list[week]?.list, width, height })
 
   function makeMatrix(array, size, out) {
     out = out || []
@@ -17,10 +20,10 @@
 </script>
 
 <svelte:head>
-  <title>Week {week} {level} Word Search</title>
+  <title>Level {level} Week {week} Word Search</title>
 </svelte:head>
 
-<h2>Week {week} {level} Word Search</h2>
+<h2>Level {level} Week {week} Word Search</h2>
 
 {#if puzzle}
   <div class="container">

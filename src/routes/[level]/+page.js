@@ -10,12 +10,10 @@ import glossary2 from '$lib/level2-glossary.md?raw'
 import glossary3 from '$lib/level3-glossary.md?raw'
 import glossary4 from '$lib/level4-glossary.md?raw'
 
-export const prerender = true
-
 /**
  * @param {string} wordlist - markdown file with master word list
  */
-function getWords(wordlist) {
+function getWholeLevelWords(wordlist) {
   const listLexer = marked.lexer(wordlist)
 
   const cleanListLexer = listLexer.filter((l) => l.type !== 'space')
@@ -24,23 +22,20 @@ function getWords(wordlist) {
   )
   const cleanerListLexer = cleanListLexer.slice(listFirstHeading)
 
-  const spellingLists = {}
+  const spellingLists = []
 
   while (cleanerListLexer.length > 0) {
-    const spellingListObject = {}
-    const listNextHeading = cleanerListLexer.shift()
-    const weekNumber = listNextHeading?.text.match(/\d+/)[0]
-    spellingListObject.week = weekNumber
-    const nextDescription = cleanerListLexer.shift()
-    spellingListObject.description = nextDescription?.text
+    cleanerListLexer.shift() // Week number heading
+    cleanerListLexer.shift() // Week list description
     const nextList = cleanerListLexer.shift()
-    spellingListObject.list = nextList?.items.map((w) => w.text.trim())
-    spellingLists[weekNumber] = spellingListObject
+    spellingLists.push(...nextList?.items.map((w) => w.text.trim()))
   }
-  return spellingLists
+  return spellingLists.sort((a, b) => a.localeCompare(b))
 }
 
-// make a javascript object out of the glossary file in markdown definition list form
+/**
+ * @param {string} glossary - markdown file with glossary
+ */
 function parseGlossary(glossary) {
   const glossaryObject = {}
   const glossaryItems = marked
@@ -55,21 +50,53 @@ function parseGlossary(glossary) {
   }
   return glossaryObject
 }
-/** @type {import('./$types').LayoutLoad} */
-export function load() {
-  const lists = []
-  const glossaries = []
-  lists[0] = getWords(wordList1)
-  lists[1] = getWords(wordList2)
-  lists[2] = getWords(wordList3)
-  lists[3] = getWords(wordList4)
-  glossaries[0] = parseGlossary(glossary1)
-  glossaries[1] = parseGlossary(glossary2)
-  glossaries[2] = parseGlossary(glossary3)
-  glossaries[3] = parseGlossary(glossary4)
+
+/** @type {import('./$types').PageLoad} */
+export function load({ params }) {
+  let list = []
+  switch (params.level) {
+    case '1': {
+      list = getWholeLevelWords(wordList1)
+      break
+    }
+    case '2': {
+      list = getWholeLevelWords(wordList2)
+      break
+    }
+    case '3': {
+      list = getWholeLevelWords(wordList3)
+      break
+    }
+    case '4': {
+      list = getWholeLevelWords(wordList4)
+      break
+    }
+  }
+
+  let glossary
+  switch (params.level) {
+    case '1': {
+      glossary = parseGlossary(glossary1)
+      break
+    }
+    case '2': {
+      glossary = parseGlossary(glossary2)
+      break
+    }
+    case '3': {
+      glossary = parseGlossary(glossary3)
+      break
+    }
+    case '4': {
+      glossary = parseGlossary(glossary4)
+      break
+    }
+  }
 
   return {
-    lists,
-    glossaries,
+    list,
+    glossary,
+    week: params.week,
+    level: params.level,
   }
 }

@@ -1,12 +1,4 @@
 <script>
-  import Wordlist from '$lib/Wordlist.svelte'
-
-  export let data
-  let level = 'A'
-  let week = 1
-  $: list = level === 'A' ? data?.level4List : data?.level3List
-  $: glossary = level === 'A' ? data?.level4glossary : data?.level3glossary
-  let showDefinitions = true
 </script>
 
 <p>
@@ -14,34 +6,14 @@
 </p>
 
 <div class="grid">
-  <fieldset>
-    <label for="week">Week</label>
-    <select id="week" bind:value={week}>
-      {#each Array.from({ length: 36 }) as _, index}
-        <option value={index + 1}>{index + 1}</option>
-      {/each}
-    </select>
-  </fieldset>
-  <fieldset>
-    <label for="level">Level</label>
-
-    <input bind:group={level} type="radio" name="level" value="A" /> A
-    <br />
-    <input bind:group={level} type="radio" name="level" value="B" /> B
-  </fieldset>
-
-  <fieldset>
-    <label for="definitions"> Show definitions </label>
-    <input
-      type="checkbox"
-      bind:checked={showDefinitions}
-      id="definitions"
-      name="definitions"
-      role="switch"
-    />
-  </fieldset>
+  <a href="/1" role="button">Level 1</a>
+  <a href="/2" role="button">Level 2</a>
+  <a href="/3" role="button">Level 3</a>
+  <a href="/4" role="button">Level 4</a>
 </div>
-<a href="{week}/{level}/wordsearch" role="button">View Word Search</a>
-{#if list}
-  <Wordlist {list} {week} {glossary} {showDefinitions} />
-{/if}
+
+<style>
+  .grid a {
+    margin: 0.5rem 0;
+  }
+</style>
