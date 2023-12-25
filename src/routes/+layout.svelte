@@ -1,8 +1,8 @@
 <script>
   import Footer from '$lib/Footer.svelte'
   import Header from '$lib/Header.svelte'
-  import '@picocss/pico'
-  import '../app.css'
+  // import '@picocss/pico'
+  import '../app2.css'
 </script>
 
 <main class="container">
@@ -15,7 +15,9 @@
 <style>
   main {
     font-family: 'Lexend', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
-    margin-top: 1rem;
+    margin: 0 auto;
+    max-width: 960px;
+    padding: 0 2rem;
   }
   @media print {
     main {

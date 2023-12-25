@@ -31,7 +31,7 @@
   }
   p {
     padding: 0;
-    font-size: 0.7rem;
+    font-size: 1.3rem;
     margin: 2rem;
   }
   span {

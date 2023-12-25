@@ -37,18 +37,28 @@
   </fieldset>
 
   <fieldset>
-    <label for="definitions"> Show definitions </label>
-    <input
-      type="checkbox"
-      bind:checked={showDefinitions}
+    <label for="defitions">Definitions</label>
+    <button
       id="definitions"
-      name="definitions"
-      role="switch"
-    />
+      on:click={() => (showDefinitions = !showDefinitions)}
+    >
+      {#if showDefinitions}
+        Hide
+      {:else}
+        Show
+      {/if}
+    </button>
   </fieldset>
 </div>
 
 <style>
+  .grid {
+    display: flex;
+    width: 100%;
+  }
+  .grid > * {
+    margin-right: 2rem;
+  }
   select {
     width: 8rem;
   }

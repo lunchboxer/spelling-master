@@ -10,7 +10,7 @@
 </script>
 
 {#if list && list.length > 0}
-  <lable for="search">Search</lable>
+  <label for="search">Filter</label>
   <input id="search" type="text" bind:value={searchString} />
   <p>Showing {filteredList.length} words</p>
   <ul>
@@ -25,3 +25,9 @@
 {:else}
   <p>No words found</p>
 {/if}
+
+<style>
+  #search {
+    max-width: 20rem;
+  }
+</style>

@@ -46,6 +46,7 @@
 
 <style>
   .container {
+    padding-top: 2rem;
     width: 100%;
     justify-content: center;
     flex-wrap: nowrap;

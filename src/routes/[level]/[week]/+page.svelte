@@ -12,7 +12,10 @@
 </script>
 
 <h2>Level {level} Week {week}</h2>
-<ListSelector bind:level bind:week bind:showDefinitions />
-<a href={`/${level}/${week}/wordsearch`}>Word Search</a>
+<div class="no-print">
+  <ListSelector bind:level bind:week bind:showDefinitions />
+</div>
 
 <Wordlist {list} {week} {glossary} {showDefinitions} />
+
+<a href={`/${level}/${week}/wordsearch`} class="no-print">Word Search</a>

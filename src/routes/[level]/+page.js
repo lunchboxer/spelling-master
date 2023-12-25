@@ -1,4 +1,5 @@
 import { marked } from 'marked'
+import { error } from '@sveltejs/kit'
 
 import wordList1 from '$lib/level1-list.md?raw'
 import wordList2 from '$lib/level2-list.md?raw'
@@ -53,6 +54,9 @@ function parseGlossary(glossary) {
 
 /** @type {import('./$types').PageLoad} */
 export function load({ params }) {
+  if (!(params.level >= 1 && params.level <= 4)) {
+    throw error(404, 'Not found')
+  }
   let list = []
   switch (params.level) {
     case '1': {
