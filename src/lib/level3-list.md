@@ -1,4 +1,4 @@
-# Grade 3 master spelling list
+# Level 3 master spelling list
 
 ## Week 1
 

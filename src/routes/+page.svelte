@@ -10,6 +10,7 @@
   <a href="/2" class="button">Level 2</a>
   <a href="/3" class="button">Level 3</a>
   <a href="/4" class="button">Level 4</a>
+  <a href="/5" class="button">Level 5</a>
 </div>
 
 <style>

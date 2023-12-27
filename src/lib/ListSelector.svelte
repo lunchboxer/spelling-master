@@ -21,7 +21,7 @@
   <fieldset>
     <label for="level">Level</label>
     <select id="level" bind:value={intLevel} on:change={goThere}>
-      {#each [1, 2, 3, 4] as levelNumber}
+      {#each [1, 2, 3, 4, 5] as levelNumber}
         <option value={levelNumber}>{levelNumber}</option>
       {/each}
     </select>

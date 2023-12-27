@@ -4,11 +4,13 @@ import wordList1 from '$lib/level1-list.md?raw'
 import wordList2 from '$lib/level2-list.md?raw'
 import wordList3 from '$lib/level3-list.md?raw'
 import wordList4 from '$lib/level4-list.md?raw'
+import wordList5 from '$lib/level5-list.md?raw'
 
 import glossary1 from '$lib/level1-glossary.md?raw'
 import glossary2 from '$lib/level2-glossary.md?raw'
 import glossary3 from '$lib/level3-glossary.md?raw'
 import glossary4 from '$lib/level4-glossary.md?raw'
+import glossary5 from '$lib/level5-glossary.md?raw'
 
 export const prerender = true
 
@@ -63,10 +65,12 @@ export function load() {
   lists[1] = getWords(wordList2)
   lists[2] = getWords(wordList3)
   lists[3] = getWords(wordList4)
+  lists[4] = getWords(wordList5)
   glossaries[0] = parseGlossary(glossary1)
   glossaries[1] = parseGlossary(glossary2)
   glossaries[2] = parseGlossary(glossary3)
   glossaries[3] = parseGlossary(glossary4)
+  glossaries[4] = parseGlossary(glossary5)
 
   return {
     lists,

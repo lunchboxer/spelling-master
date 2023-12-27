@@ -5,11 +5,13 @@ import wordList1 from '$lib/level1-list.md?raw'
 import wordList2 from '$lib/level2-list.md?raw'
 import wordList3 from '$lib/level3-list.md?raw'
 import wordList4 from '$lib/level4-list.md?raw'
+import wordList5 from '$lib/level5-list.md?raw'
 
 import glossary1 from '$lib/level1-glossary.md?raw'
 import glossary2 from '$lib/level2-glossary.md?raw'
 import glossary3 from '$lib/level3-glossary.md?raw'
 import glossary4 from '$lib/level4-glossary.md?raw'
+import glossary5 from '$lib/level5-glossary.md?raw'
 
 /**
  * @param {string} wordlist - markdown file with master word list
@@ -54,7 +56,7 @@ function parseGlossary(glossary) {
 
 /** @type {import('./$types').PageLoad} */
 export function load({ params }) {
-  if (!(params.level >= 1 && params.level <= 4)) {
+  if (!(params.level >= 1 && params.level <= 5)) {
     throw error(404, 'Not found')
   }
   let list = []
@@ -75,6 +77,10 @@ export function load({ params }) {
       list = getWholeLevelWords(wordList4)
       break
     }
+    case '5': {
+      list = getWholeLevelWords(wordList5)
+      break
+    }
   }
 
   let glossary
@@ -93,6 +99,10 @@ export function load({ params }) {
     }
     case '4': {
       glossary = parseGlossary(glossary4)
+      break
+    }
+    case '5': {
+      glossary = parseGlossary(glossary5)
       break
     }
   }

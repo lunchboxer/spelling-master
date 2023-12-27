@@ -1,4 +1,4 @@
-# Grade 1 master spelling list
+# Level 1 master spelling list
 
 ## Week 1
 

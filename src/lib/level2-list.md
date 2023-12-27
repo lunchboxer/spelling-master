@@ -1,4 +1,4 @@
-# Grade 2 master spelling list
+# Level 2 master spelling list
 
 ## Week 1
 
