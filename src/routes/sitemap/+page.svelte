@@ -11,7 +11,7 @@
       Week {index + 1} : Level <a href="/1/{index + 1}/">1</a> |
       <a href="/2/{index + 1}">2</a> |
       <a href="/3/{index + 1}">3</a> |
-      <a href="/4/{index + 1}">4</a>
+      <a href="/4/{index + 1}">4</a> |
       <a href="/5/{index + 1}">5</a>
     </li>
   {/each}
@@ -25,7 +25,7 @@
       Week {index + 1} : Level <a href="/1/{index + 1}/wordsearch">1</a> |
       <a href="/2/{index + 1}/wordsearch">2</a> |
       <a href="/3/{index + 1}/wordsearch">3</a> |
-      <a href="/4/{index + 1}/wordsearch">4</a>
+      <a href="/4/{index + 1}/wordsearch">4</a> |
       <a href="/5/{index + 1}/wordsearch">5</a>
     </li>
   {/each}
