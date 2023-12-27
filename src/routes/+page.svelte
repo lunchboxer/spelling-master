@@ -13,7 +13,22 @@
   <a href="/5" class="button">Level 5</a>
 </div>
 
+<ul class="links">
+  <li>
+    <a href="/printable-lists">Printable spelling lists</a>
+  </li>
+  <li>
+    <a href="/printable-wordsearches">Printable wordsearches</a>
+  </li>
+</ul>
+
 <style>
+  .links {
+    margin: 4rem 0;
+  }
+  .grid {
+    margin: 1rem 0;
+  }
   .grid a {
     margin: 0.5rem 0;
   }
