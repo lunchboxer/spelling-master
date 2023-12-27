@@ -16,6 +16,6 @@
   <ListSelector bind:level bind:week bind:showDefinitions />
 </div>
 
-<Wordlist {list} {week} {glossary} {showDefinitions} />
+<Wordlist {level} {list} {week} {glossary} {showDefinitions} />
 
 <a href={`/${level}/${week}/wordsearch`} class="no-print">Word Search</a>

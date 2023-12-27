@@ -1057,7 +1057,7 @@ horrible
 : Extremely unpleasant or disagreeable. "Getting stuck in an elevator was a horrible experience." 
 
 hospital
-: Institution providing medical treatment and care for patients. "When the accident victim arrived, doctors in the hospital emergency room worked to save his life."
+: Institution providing medical care. "Doctors in the hospital raced to save hist life after the accident."
 
 human
 : Relating to people or the species Homo sapiens. "Humans have advanced cognitive abilities compared to other animals."
