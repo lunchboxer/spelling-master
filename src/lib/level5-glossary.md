@@ -376,7 +376,7 @@ calico
 : Cloth or cat with patches of brown, black, orange and white. "The calico fabric pattern was popular for quilts."
 
 California
-: A state on the west coast of the United States with a long Pacific coastline. "Los Angeles and San Francisco are major cities in California."
+: A state on the west coast of the United States. "Los Angeles and San Francisco are major cities in California."
 
 calories
 : Units measuring energy provided from food. "The average adult needs about 2000 calories per day."

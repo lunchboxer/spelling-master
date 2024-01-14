@@ -265,7 +265,7 @@ had
 : Did something in the past. "Yesterday I had such fun!"
 
 has
-: Now has something. "My friend has a new lunchbox."
+: Now owns something. "My friend has a new lunchbox."
 
 hat
 : Head covering worn outdoors. "Her hat kept the sun out of her eyes."
@@ -383,6 +383,9 @@ low
 
 luck
 : Events happening by chance. "Wish me luck before the race!"
+
+mad
+: Angry. "Sara is mad when her brother takes her toys."
 
 made
 : Created or built something. "Dad made me a bookshelf."
@@ -710,6 +713,9 @@ than
 
 that
 : Referring to a certain one. "That book is mine, not this one."
+
+the
+: That one. "The dog barked at the cat."
 
 their
 : Belonging to them. "Put their bags over there please."

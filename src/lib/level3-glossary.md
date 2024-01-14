@@ -264,6 +264,9 @@ checked
 cheerful
 : Having or showing good spirits. "She had a cheerful smile on her face."
 
+child
+: A young boy or girl. "The child played happily with his toys."
+
 children
 : Human offspring. "The children played games at recess."
 
@@ -414,7 +417,7 @@ decimal
 : Relating to fractions with denominators of ten. "One-tenth can be written as the decimal 0.1."
 
 delta
-: Landform created by sediment where a river flows into a larger body of water. "The Mississippi River delta extends into the Gulf of Mexico."
+: The area where a river meets the sea. "The Mississippi River forms a big delta in the Gulf of Mexico."
 
 denominator
 : Bottom number of a fraction. "In 1/4 the denominator is 4."
@@ -594,7 +597,7 @@ football
 forest
 : An area with many trees growing close together. "The deer lived in the shady green forest."
 
-"formally
+formally
 : In a proper or official way. "The treaty was formally signed by both kings."
 
 formula
@@ -760,6 +763,9 @@ hugged
 hundred
 : The number 100. "There are 100 years in a century."
 
+hunting
+: Searching for wild animals to capture or kill them. "We went deer hunting in the woods."
+
 hurried
 : Acted swiftly and rushed. "We hurried home before the rain."
 
@@ -800,6 +806,9 @@ independence
 
 interact
 : Influence or act upon each other. "The chemicals interacted and started foaming."
+
+interaction
+: Communicating or acting with others. "A fun class involves lots of student interaction."
 
 iron
 : Strong metal used to make tools. "The iron gate was very heavy."

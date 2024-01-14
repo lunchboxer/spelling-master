@@ -928,7 +928,7 @@ mile
 : Unit of distance equal to 1,760 yards. "Our house is ten miles from grandma's."
 
 mind
-: One's memory, opinions or thoughts. "I don't mind if you borrow my crayons."
+: Your brain and thoughts. "Use your mind to solve the math problem."
 
 minute
 : 60 seconds of time. "Only one minute until recess starts!"
@@ -986,6 +986,9 @@ observe
 
 ocean
 : A huge body of salt water. "Whales live in the ocean."
+
+off
+: Not on, switched off. "The light was off so the room was dark."
 
 offend
 : To insult or hurt feelings. "I did not mean to offend anyone."
