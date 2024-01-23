@@ -14,11 +14,12 @@
 
 <style>
   main {
-    font-family: 'Lexend', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+    font-family: Lexend, 'Helvetica Neue', Helvetica, Arial, sans-serif;
     margin: 0 auto;
     max-width: 960px;
     padding: 0 2rem;
   }
+
   @media print {
     main {
       width: 100%;

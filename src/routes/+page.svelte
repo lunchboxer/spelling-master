@@ -26,9 +26,11 @@
   .links {
     margin: 4rem 0;
   }
+
   .grid {
     margin: 1rem 0;
   }
+
   .grid a {
     margin: 0.5rem 0;
   }

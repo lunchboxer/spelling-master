@@ -2,15 +2,16 @@
   font-family: Lexend;
   src: url('/fonts/Lexend-Light.ttf');
 }
+
 --root {
-  font-family: 'Lexend', 'Helvetica Neue', 'Helvetica', 'Arial';
+  font-family: Lexend, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 body,
 h1,
 h2,
 h3 {
-  font-family: 'Lexend', 'Helvetica Neue', 'Helvetica', 'Arial';
+  font-family: Lexend, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 @media print {
@@ -20,16 +21,19 @@ h3 {
     margin: 0 auto;
     max-width: unset;
     padding: 0;
-    text-rendering: optimizeLegibility;
+    text-rendering: optimizelegibility;
   }
+
   .print-only {
     display: unset;
   }
+
   .no-print {
     display: none;
   }
+
   @page {
-    size: A4;
+    size: a4;
     margin: 2cm;
   }
 }

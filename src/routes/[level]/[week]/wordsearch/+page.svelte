@@ -52,23 +52,28 @@
     flex-wrap: nowrap;
     display: flex;
   }
+
   .puzzle {
     display: flex;
     flex-direction: column;
   }
+
   .row {
     flex-shrink: 0;
     display: flex;
   }
+
   .words {
     padding: 0 1rem;
     margin: 0 1rem;
     width: auto;
     border-left: 1px solid #aaa;
   }
+
   .word {
     height: 30px;
   }
+
   .letter {
     text-wrap: nowrap;
     text-align: center;
@@ -78,15 +83,18 @@
     padding: 0;
     margin: 0;
   }
+
   @media print {
     .letter {
       font-size: 16pt;
     }
+
     .row {
       font-size: 16pt;
       margin: 0;
       padding: 2px;
     }
+
     .word {
       font-size: 12pt;
     }

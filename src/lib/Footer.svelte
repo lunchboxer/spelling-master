@@ -29,11 +29,13 @@
     text-align: center;
     opacity: 0.6;
   }
+
   p {
     padding: 0;
     font-size: 1.3rem;
     margin: 2rem;
   }
+
   span {
     margin: 0 1rem;
   }

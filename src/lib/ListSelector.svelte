@@ -56,9 +56,11 @@
     display: flex;
     width: 100%;
   }
+
   .grid > * {
     margin-right: 2rem;
   }
+
   select {
     width: 8rem;
   }

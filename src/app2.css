@@ -11,29 +11,33 @@ mostly the addition of custom property colors, so that components can use them t
  A lot was moved to index.html
  */
 @font-face {
-  font-family: 'Lexend';
+  font-family: Lexend, 'Helvetica Neue', Helvetica, Arial, sans-serif;
   src: url('/fonts/Lexend-Light.ttf');
 }
+
 :root {
   color-scheme: light dark;
+
   --color-on-primary: white;
   --background: white;
-  --base-color: #222222;
+  --base-color: #222;
   --primary-color: #7b71aa;
-  --error-color: #cc0000;
+  --error-color: #c00;
 }
+
 @media (prefers-color-scheme: dark) {
   :root {
     --color-on-primary: #000;
     --background: #222;
     --base-color: #eee;
     --primary-color: #b1a5e2;
-    --error-color: #ff8888;
+    --error-color: #f88;
   }
 }
+
 *,
-*:after,
-*:before {
+*::after,
+*::before {
   box-sizing: inherit;
 }
 
@@ -44,13 +48,14 @@ html {
 }
 
 body {
-  font-family: 'Lexend', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  font-family: Lexend, 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 1.6em;
   font-weight: 300;
   letter-spacing: 0.01em;
   line-height: 1.6;
   color: var(--base-color);
 }
+
 input {
   color: var(--base-color);
 }
@@ -227,8 +232,6 @@ input[type='datetime-local'],
 input:not([type]),
 textarea,
 select {
-  -webkit-appearance: none;
-  -moz-appearance: none;
   appearance: none;
   background-color: transparent;
   border: 0.1rem solid var(--base-color);
@@ -312,7 +315,6 @@ dl,
 ol,
 ul {
   list-style-position: inside;
-  margin-top: 0;
   margin: 0;
   padding: 0 0.5rem;
 }
@@ -320,6 +322,7 @@ ul {
 ol {
   list-style: decimal;
 }
+
 ul {
   list-style: circle;
 }
@@ -335,6 +338,7 @@ table,
 ul {
   margin-bottom: 2.5rem;
 }
+
 blockquote {
   border-left: 0.4rem solid #999;
   margin-left: 0;
@@ -396,7 +400,7 @@ h6 {
   line-height: 1.4;
 }
 
-.clearfix:after {
+.clearfix::after {
   clear: both;
   content: ' ';
   display: table;
@@ -406,10 +410,12 @@ main {
   padding: 2rem;
   margin: 0;
 }
+
 input.error {
-  background: rgba(255, 100, 100, 0.1);
+  background: rgba(255 100 100 / 10%);
   border-color: var(--error-color);
 }
+
 p.error {
   color: var(--error-color);
 }
@@ -417,15 +423,19 @@ p.error {
 option {
   background: var(--background);
 }
+
 .article-info {
   font-size: 1.3rem;
 }
+
 .print-only {
   display: none;
 }
+
 .float-right {
   float: right;
 }
+
 @media print {
   body {
     font-size: 12pt;
@@ -433,22 +443,26 @@ option {
     margin: 0 auto;
     max-width: unset;
     padding: 0;
-    text-rendering: optimizeLegibility;
+    text-rendering: optimizelegibility;
   }
+
   h1 {
     font-size: 18pt;
     margin: 0;
     font-weight: 800;
   }
+
   h2 {
     font-size: 14pt;
-    margin: 6pt 0 6pt 0;
+    margin: 6pt 0;
     padding: 0;
     font-weight: 800;
   }
+
   h2#glossary {
     break-after: avoid;
   }
+
   li {
     font-size: 12pt;
     line-height: 1.6;
@@ -456,6 +470,7 @@ option {
     margin-left: 2rem;
     padding: 0;
   }
+
   p {
     font-size: 12pt;
     text-indent: 4ch;
@@ -463,20 +478,25 @@ option {
     margin-top: 4pt;
     padding: 0;
   }
+
   li p {
     text-indent: 0;
   }
+
   .answers li {
     font-size: 11pt;
   }
+
   .print-only {
     display: unset;
   }
+
   .no-print {
     display: none;
   }
 }
+
 @page {
-  size: A4;
+  size: a4;
   margin: 2cm;
 }

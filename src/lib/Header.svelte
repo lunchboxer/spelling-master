@@ -23,15 +23,18 @@
     list-style-position: outside;
     text-indent: 0;
   }
+
   nav {
     padding: 0 0 1rem;
     background: var(--background-color);
     width: 100%;
   }
+
   @media print {
     .title {
       font-size: 10pt;
     }
+
     nav {
       padding: 0;
     }

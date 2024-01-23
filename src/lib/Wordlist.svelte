@@ -28,6 +28,7 @@
     li.spaced {
       margin: 1rem 1.5rem;
     }
+
     li.tight {
       margin-right: 0;
       padding-right: 0;
