@@ -9,7 +9,7 @@ action
 : Something that someone does. "Skateboarding is an action sport."
 
 actually
-: Truly, really. "I actually don't like pizza that much."
+: Truly, really. "I actually don’t like pizza that much."
 
 adapt
 : To change to fit new conditions. "Bears adapt to the cold by growing thicker fur."
@@ -39,7 +39,7 @@ amount
 : The number or quantity of something. "A large amount of snow fell during the storm."
 
 annoy
-: Bother or irritate. "Loud noises annoy me when I'm trying to concentrate."
+: Bother or irritate. "Loud noises annoy me when I’m trying to concentrate."
 
 answer
 : A reply or response. "She knew the answer to the question."
@@ -48,7 +48,7 @@ appearance
 : How someone or something looks. "She checked her appearance before the interview."
 
 apron
-: Garment worn over the front of one's clothes. "She tied on an apron before starting to cook."
+: Garment worn over the front of one’s clothes. "She tied on an apron before starting to cook."
 
 arctic
 : Relating to the North Pole region. "Polar bears live in the Arctic."
@@ -101,10 +101,10 @@ barter
 : Trade goods or services without money. "Many early societies bartered corn for cloth and tools."
 
 base
-: The bottom or lowest part. "The vase had a sturdy base so it wouldn't tip."
+: The bottom or lowest part. "The vase had a sturdy base so it wouldn’t tip."
 
 baseball
-: Game played with a bat, ball and gloves. "Baseball is America's favorite pastime."
+: Game played with a bat, ball and gloves. "Baseball is America’s favorite pastime."
 
 basket
 : A woven container for carrying things. "She packed a picnic basket with sandwiches."
@@ -125,10 +125,10 @@ began
 : Started or commenced. "The race began when the starter pistol fired."
 
 begin
-: To start or originate. "Let's begin our hike up the mountain."
+: To start or originate. "Let’s begin our hike up the mountain."
 
 behavior
-: The way one acts. "The child's behavior was excellent all day."
+: The way one acts. "The child’s behavior was excellent all day."
 
 behind
 : At or toward the back. "Please stand behind me in line."
@@ -206,7 +206,7 @@ butterfly
 : Winged insect with large, patterned wings. "The Monarch is a brightly colored orange and black butterfly."
 
 buy
-: Obtain something by paying money for it. "I'm going to buy some bread from the store."
+: Obtain something by paying money for it. "I’m going to buy some bread from the store."
 
 buying
 : Purchasing or acquiring things. "We are buying new furniture for the living room."
@@ -222,8 +222,8 @@ calculate
 candle
 : Cylinder of wax with an embedded wick burned for light. "The candle flickered softly on the table."
 
-can't
-: Cannot, unable to. "I can't reach the top shelf, it's too high up."
+can’t
+: Cannot, unable to. "I can’t reach the top shelf, it’s too high up."
 
 cannot
 : To be unable to do something. "I cannot reach the top shelf."
@@ -235,7 +235,7 @@ carefully
 : With great caution and attention. "Drive carefully on icy roads."
 
 carry
-: Hold or transport someone or something. "I'll carry this box for you."
+: Hold or transport someone or something. "I’ll carry this box for you."
 
 cellar
 : Room or space under a building, often for storage. "The cellar kept our food cool and dry."
@@ -253,7 +253,7 @@ central
 : Main or principal; centered. "The library is central to the town square."
 
 chance
-: Possibility or likelihood of something. "There's a good chance it will rain today."
+: Possibility or likelihood of something. "There’s a good chance it will rain today."
 
 change
 : Become different, transform. "Caterpillars change into butterflies."
@@ -292,10 +292,10 @@ civil
 : Relating to citizens or government. "The civil rights movement brought important changes."
 
 clarify
-: Make clearer or easier to understand. "Please clarify the instructions - I'm confused."
+: Make clearer or easier to understand. "Please clarify the instructions - I’m confused."
 
 class
-: A group of students learning together. "Mrs. Thompson's second grade class was very bright."
+: A group of students learning together. "Mrs. Thompson’s second grade class was very bright."
 
 classroom
 : A room for instruction. "Our classroom has maps and globes for learning."
@@ -331,7 +331,7 @@ common
 : Ordinary, frequently occurring. "Giraffes have long necks, which is common for the species."
 
 compare
-: Note similarities and differences. "Let's compare these two backpacks."
+: Note similarities and differences. "Let’s compare these two backpacks."
 
 complex
 : Complicated, with many parts. "Building a robot is a complex process."
@@ -367,7 +367,7 @@ cowboy
 : Person who tends cattle and horses in the American West. "The cowboy rode across the open plains on horseback."
 
 crash
-: Smash or collide violently. "The cymbals crashed loudly in the song's climax."
+: Smash or collide violently. "The cymbals crashed loudly in the song’s climax."
 
 crawl
 : Move forward on hands and knees. "The babies crawled quickly around the playpen."
@@ -425,8 +425,8 @@ denominator
 desert
 : An extremely dry, barren region. "Cacti thrive in the hot desert."
 
-didn't
-: Did not. "I didn't mean to be late, there was heavy traffic."
+didn’t
+: Did not. "I didn’t mean to be late, there was heavy traffic."
 
 difference
 : Unlikeness between two or more things. "Can you tell the difference between cats and dogs?"
@@ -447,7 +447,7 @@ disposable
 : Made to be used once and then thrown away. "Many people are trying to use less disposable plastic."
 
 distance
-: The amount of space between things. "It's a short distance around the park."
+: The amount of space between things. "It’s a short distance around the park."
 
 ditch
 : A long, narrow trench. "They dug a ditch to drain the floodwaters."
@@ -458,8 +458,8 @@ diving
 division
 : Separating into parts or groups. "In division you divide one number by another."
 
-don't
-: Do not. "Don't touch that - it's still wet!"
+don’t
+: Do not. "Don’t touch that - it’s still wet!"
 
 dress
 : Garment for a girl or woman. "The bride wore a beautiful white wedding dress."
@@ -494,7 +494,7 @@ else
 : Other or additional. "Would you like anything else with your lunch order?"
 
 empty
-: Containing nothing inside. "Please don't throw the empty bottle into the trash - recycle it!"
+: Containing nothing inside. "Please don’t throw the empty bottle into the trash - recycle it!"
 
 emptied
 : Poured out everything. "She emptied her pockets looking for the lost key."
@@ -633,7 +633,7 @@ gentle
 : Kind, soft, tender. "She had a gentle, caring nature."
 
 geography
-: Study of Earth's surface and features. "We studied geography and made maps."
+: Study of Earth’s surface and features. "We studied geography and made maps."
 
 giggle
 : Laugh lightly in a playful, gleeful way. "The funny joke made the kids giggle."
@@ -645,13 +645,13 @@ giraffe
 : Tall mammal with a very long neck. "The giraffe can eat leaves high up on the tree."
 
 glare
-: A steady, intense gaze. "The cat's glare warned the dog away from her kittens."
+: A steady, intense gaze. "The cat’s glare warned the dog away from her kittens."
 
 government
 : Governing body of a city, state or country. "The US government has three branches."
 
 grade
-: A year of schooling. "Next year I'll be in third grade."
+: A year of schooling. "Next year I’ll be in third grade."
 
 grand
 : Splendid, impressive, great. "The castle was very grand with tall towers."
@@ -680,7 +680,7 @@ gun
 ## H
 
 hair
-: Fine strands growing on one's head. "He has short blonde hair."
+: Fine strands growing on one’s head. "He has short blonde hair."
 
 hallway
 : Corridor inside a building. "We left our coats in the hallway."
@@ -700,20 +700,20 @@ hare
 harmful
 : Causing damage or injury. "Smoking can be very harmful."
 
-haven't
-: Have not. "I haven't finished my homework yet."
+haven’t
+: Have not. "I haven’t finished my homework yet."
 
-he'll
-: He will. "He'll be here soon, I'm sure."
+he’ll
+: He will. "He’ll be here soon, I’m sure."
 
-he's
-: He is. "He's my favorite teacher."
+he’s
+: He is. "He’s my favorite teacher."
 
 hear
 : Perceive sound through the ear. "I hear music outside."
 
 held
-: Grasped, supported. "He held his mother's hand crossing the street."
+: Grasped, supported. "He held his mother’s hand crossing the street."
 
 helpfully
 : In a helpful caring manner. "The tutor helpfully explained the concepts."
@@ -771,17 +771,17 @@ hurried
 
 ## I
 
-I'd
-: I would. "I'd like to have pizza for dinner."
+I’d
+: I would. "I’d like to have pizza for dinner."
 
 idea
 : Thought, opinion, or suggestion. "I just had a great idea for a science fair project!"
 
-I'll
-: I will. "I'll call you when I get home."
+I’ll
+: I will. "I’ll call you when I get home."
 
-I've
-: I have. "I've finished all my homework already."
+I’ve
+: I have. "I’ve finished all my homework already."
 
 ivory
 : Hard white material from animal tusks and teeth. "The keys of the antique piano were made of ivory."
@@ -816,6 +816,12 @@ iron
 irritably
 : In an impatient, annoyed manner. "The toddler acted irritably and had a tantrum."
 
+isn’t
+: Is not. "It isn’t a good idea."
+
+it’s
+: It is. "It’s my favorite color."
+
 ## J
 
 jerked
@@ -833,7 +839,7 @@ jury
 ## K
 
 keep
-: Retain possession of something. "I'll keep this seashell as a souvenir."
+: Retain possession of something. "I’ll keep this seashell as a souvenir."
 
 knee
 : Joint between upper and lower leg. "The baby crawled on hands and knees."
@@ -842,7 +848,7 @@ knife
 : Tool with a sharp blade for cutting. "Use a knife to slice the bread."
 
 knot
-: Fastening made by twisting rope or thread. "Tie a strong knot so the boat won't come loose."
+: Fastening made by twisting rope or thread. "Tie a strong knot so the boat won’t come loose."
 
 knock
 : Rap with knuckles or an object. "Knock on the door before entering please."
@@ -851,12 +857,12 @@ knowledge
 : Facts or information acquired. "Experience gave him farming knowledge."
 
 known
-: Familiar with something. "I've known her since kindergarten."
+: Familiar with something. "I’ve known her since kindergarten."
 
 ## L
 
 lady
-: Polite term for a woman. "Thank you ma'am, said the polite young lady."
+: Polite term for a woman. "Thank you ma’am, said the polite young lady."
 
 lasso
 : Rope looped into a slipknot used to catch cattle. "The cowboy twirled his lasso above his head."
@@ -868,7 +874,7 @@ laughed
 : Expressed amusement with sound. "The funny movie made us laugh."
 
 laundry
-: Clothes, sheets and towels to be washed. "I'm going to do the laundry."
+: Clothes, sheets and towels to be washed. "I’m going to do the laundry."
 
 lawyer
 : Person who practices law. "The lawyer presented evidence to the jury."
@@ -877,16 +883,16 @@ least
 : Smallest in amount. "This is the least spicy dish on the menu."
 
 leave
-: Go away from a place or person. "It's time to leave for school now."
+: Go away from a place or person. "It’s time to leave for school now."
 
 leaving
-: Departing from a place. "We're leaving for vacation today!"
+: Departing from a place. "We’re leaving for vacation today!"
 
 lesson
 : Activity that teaches something. "In music we learned about rhythm."
 
-let's
-: Let us. "Let's go to the park!"
+let’s
+: Let us. "Let’s go to the park!"
 
 lightning
 : Flash of light during a thunderstorm. "Lightning was followed by loud thunder."
@@ -895,7 +901,7 @@ liked
 : Enjoyed or appreciated something. "I really liked the gift you gave me!"
 
 likely
-: Probable or expected to happen. "It likely won't snow in July here."
+: Probable or expected to happen. "It likely won’t snow in July here."
 
 list
 : Written series of items. "I made a grocery list."
@@ -907,19 +913,19 @@ lonely
 : Sad due to lack of friends or company. "I felt lonely after my best friend moved away."
 
 looked
-: Used one's eyes to see. "She looked for her lost shoe."
+: Used one’s eyes to see. "She looked for her lost shoe."
 
 loose
 : Not tight or constrained. "Her loose tooth finally fell out."
 
 louder
-: Greater in volume or intensity. "I couldn't hear over the louder music."
+: Greater in volume or intensity. "I couldn’t hear over the louder music."
 
 lovely
 : Beautiful, very pleasing. "The rose garden was lovely."
 
 lunar
-: Relating to the moon. "A lunar eclipse occurs when the moon passes into the Earth's shadow."
+: Relating to the moon. "A lunar eclipse occurs when the moon passes into the Earth’s shadow."
 
 lunch
 : Midday meal. "I brought a packed lunch to school."
@@ -966,7 +972,7 @@ mirror
 : Reflective glass surface. "I could see myself in the mirror."
 
 miss
-: Feel sad about someone's absence. "I miss my friend who moved away."
+: Feel sad about someone’s absence. "I miss my friend who moved away."
 
 modify
 : Change something partially. "We can modify this recipe to be healthier."
@@ -999,7 +1005,7 @@ musical
 : Related to music. "The musical play had singing and dancing."
 
 mysteries
-: Puzzling things that can't be easily explained. "We learned about the mysteries of space in science class."
+: Puzzling things that can’t be easily explained. "We learned about the mysteries of space in science class."
 
 mystery
 : Something unknown or not understood. "Where the rainforest got its name remains a mystery."
@@ -1119,10 +1125,10 @@ party
 : A social gathering or celebration. "Birthday parties are fun."
 
 pause
-: Stop temporarily. "Let's pause the movie and eat snacks."
+: Stop temporarily. "Let’s pause the movie and eat snacks."
 
 pelt
-: The raw skin of an animal with fur. "The hunter dried the beaver's pelt."
+: The raw skin of an animal with fur. "The hunter dried the beaver’s pelt."
 
 pencil
 : Writing tool containing graphite. "I used my pencil to complete the worksheet."
@@ -1218,7 +1224,7 @@ pulled
 : Used force to move something closer. "The rope was pulled to raise the sail."
 
 punish
-: Impose a penalty for wrongdoing. "It's not right to punish the whole class for one student's actions."
+: Impose a penalty for wrongdoing. "It’s not right to punish the whole class for one student’s actions."
 
 puppy
 : Young dog not fully grown. "The playful puppy chewed up my shoe!"
@@ -1238,7 +1244,7 @@ quiet
 : With little or no noise. "I read quietly in the library."
 
 quotation
-: Repeat of spoken or written words. "That's a quotation from Shakespeare."
+: Repeat of spoken or written words. "That’s a quotation from Shakespeare."
 
 quotient
 : Result of dividing one number by another. "10 divided by 5 equals a quotient of 2."
@@ -1270,19 +1276,19 @@ remainder
 : Amount left over after division. "15 divided by 4 leaves a remainder of 3."
 
 repair
-: Fix or mend something broken. "We'll repair the leaky roof tomorrow."
+: Fix or mend something broken. "We’ll repair the leaky roof tomorrow."
 
 reusable
 : Able to be used again. "We pack reusable water bottles instead of plastic ones."
 
 review
-: Look at or examine again. "Let's review the vocabulary words."
+: Look at or examine again. "Let’s review the vocabulary words."
 
 rewind
-: Wind backwards to original position. "Rewind the cassette tape when you're done listening."
+: Wind backwards to original position. "Rewind the cassette tape when you’re done listening."
 
 richest
-: Most abundant or valuable. "The chocolate cake was the richest I've ever tasted!"
+: Most abundant or valuable. "The chocolate cake was the richest I’ve ever tasted!"
 
 river
 : Large, natural freshwater stream. "We fished for salmon in the river."
@@ -1297,7 +1303,7 @@ royal
 : Relating to a king, queen or monarch. "The royal carriage was pulled by white horses."
 
 rule
-: Regulation governing actions. "A rule of the game is you can't touch the ball with your hands."
+: Regulation governing actions. "A rule of the game is you can’t touch the ball with your hands."
 
 ## S
 
@@ -1305,7 +1311,7 @@ safe
 : Free from harm or danger. "Wearing a seatbelt keeps you safe in the car."
 
 save
-: Rescue from harm; keep protected. "Remember to save your work frequently so you don't lose it."
+: Rescue from harm; keep protected. "Remember to save your work frequently so you don’t lose it."
 
 school
 : Place for teaching and learning. "I learn reading, writing and math at school."
@@ -1329,13 +1335,13 @@ seem
 : Give the impression of being something. "The summer seemed to go by very quickly."
 
 settled
-: Established a home in a new place. "In the 1600s Europeans settled along North America's east coast."
+: Established a home in a new place. "In the 1600s Europeans settled along North America’s east coast."
 
 settlers
 : People who migrate to colonize new territory. "The settlers built communities on the frontier."
 
 shadow
-: Dark shape made from blocking light. "The tree's shadow kept us cool."
+: Dark shape made from blocking light. "The tree’s shadow kept us cool."
 
 shall
 : Will or must; used to express intent. "You shall go to the ball, Cinderella!"
@@ -1343,14 +1349,14 @@ shall
 sharp
 : Having a very thin and potentially cutting edge. "Be careful, that knife is very sharp!"
 
-she'd
-: She would or she had. "She'd like to visit Paris someday."
+she’d
+: She would or she had. "She’d like to visit Paris someday."
 
-she'll
-: She will. "She'll be here soon, I'm sure."
+she’ll
+: She will. "She’ll be here soon, I’m sure."
 
-she's
-: She is. "She's my best friend."
+she’s
+: She is. "She’s my best friend."
 
 shirt
 : Garment for the upper body. "He buttoned his dress shirt."
@@ -1374,7 +1380,7 @@ showed
 : Displayed or presented something. "She showed me photos from the trip."
 
 shower
-: Brief fall of rain. "Let's wait out this rain shower before we walk home."
+: Brief fall of rain. "Let’s wait out this rain shower before we walk home."
 
 sign
 : Object conveying information. "The sign said there was danger ahead."
@@ -1443,7 +1449,7 @@ stairs
 : Set of steps between floors in a building. "We walked up the stairs to the top floor."
 
 stand
-: Rise up on one's feet. "Please stand for the national anthem."
+: Rise up on one’s feet. "Please stand for the national anthem."
 
 star
 : A luminous celestial body like the sun. "Stars twinkled brightly in the night sky."
@@ -1452,7 +1458,7 @@ stars
 : Bright points of light in the night sky. "The stars twinkled above our campsite."
 
 start
-: Begin or originate. "Let's start our project by gathering materials."
+: Begin or originate. "Let’s start our project by gathering materials."
 
 started
 : Began doing something. "We started our homework right after school."
@@ -1464,13 +1470,13 @@ steel
 : Alloy of iron and carbon, known for strength. "The steel beams supported the bridge."
 
 stone
-: Small piece of rock. "The ancient building's walls were made of stone."
+: Small piece of rock. "The ancient building’s walls were made of stone."
 
 story
 : Account of events or experiences. "Let me tell you a story about my summer vacation."
 
 strangest
-: Most odd, unusual or extraordinary. "It was the strangest dream I've ever had."
+: Most odd, unusual or extraordinary. "It was the strangest dream I’ve ever had."
 
 stream
 : Steady flowing body of water smaller than a river. "We fished in the cold mountain stream."
@@ -1517,7 +1523,7 @@ table
 : Piece of furniture with flat top surface on legs. "We ate dinner together at the table."
 
 talk
-: Communicate by speaking. "Let's talk about what to do next."
+: Communicate by speaking. "Let’s talk about what to do next."
 
 talked
 : Spoke words out loud. "My friend and I talked about our favorite animals."
@@ -1546,20 +1552,20 @@ thankfully
 theme
 : Main subject or idea. "The theme of our party is under the sea."
 
-there's
-: There is. "There's a spelling test tomorrow."
+there’s
+: There is. "There’s a spelling test tomorrow."
 
 thermometer
 : Device for measuring temperature. "The thermometer said it was 85° outside."
 
-they'll
-: They will. "They'll be here soon, I'm sure."
+they’ll
+: They will. "They’ll be here soon, I’m sure."
 
-they're
-: They are. "They're my favorite band!"
+they’re
+: They are. "They’re my favorite band!"
 
-they've
-: They have. "They've gone on vacation this week."
+they’ve
+: They have. "They’ve gone on vacation this week."
 
 thick
 : Having a large distance between sides. "The walls were a foot thick solid concrete."
@@ -1574,7 +1580,7 @@ thump
 : Heavy dull sound. "I heard a loud thump upstairs."
 
 tied
-: Fastened or secured. "I tied my shoes so they wouldn't come untied."
+: Fastened or secured. "I tied my shoes so they wouldn’t come untied."
 
 tiger
 : Large feline animal with orange fur and black stripes. "The tiger prowled through the jungle."
@@ -1583,7 +1589,7 @@ tiny
 : Extremely small. "A ladybug is a tiny insect."
 
 together
-: With each other, as a group. "Let's put our money together to buy a gift."
+: With each other, as a group. "Let’s put our money together to buy a gift."
 
 tomato
 : Round red fruit often used as a vegetable. "Tomatoes are excellent on sandwiches and in salads."
@@ -1601,13 +1607,13 @@ traditional
 : Based on long-established customs. "For Thanksgiving we make all the traditional fixings."
 
 travel
-: Go to places away from home. "When I'm older I want to travel around Europe."
+: Go to places away from home. "When I’m older I want to travel around Europe."
 
 tribal
 : Of or relating to a tribe. "The indigenous tribal people knew the land well."
 
 trying
-: Making effort, striving. "Keep trying and you'll get it!"
+: Making effort, striving. "Keep trying and you’ll get it!"
 
 tube
 : Long hollow cylinder. "We floated down the river in an inner tube."
@@ -1618,7 +1624,7 @@ tundra
 ## U
 
 uncle
-: Brother of one's parent. "My uncle loves to tell funny stories."
+: Brother of one’s parent. "My uncle loves to tell funny stories."
 
 under
 : Below or underneath something. "The dog slept under the porch during the storm."
@@ -1675,8 +1681,8 @@ walk
 war
 : Armed conflict between nations. "They studied the Civil War in school."
 
-wasn't
-: Was not. "I wasn't talking during class, honest."
+wasn’t
+: Was not. "I wasn’t talking during class, honest."
 
 watch
 : Look at closely, observe over time. "I like to watch the ducks in the pond."
@@ -1687,20 +1693,20 @@ wave
 way
 : Method or path for traveling. "Which way should we drive to your house?"
 
-we'd
-: We would. "We'd like more time to complete the assignment."
+we’d
+: We would. "We’d like more time to complete the assignment."
 
 weigh
-: Determine mass or heaviness. "Let's weigh these watermelons to find the heaviest."
+: Determine mass or heaviness. "Let’s weigh these watermelons to find the heaviest."
 
 welcome
 : Greet someone kindly upon arrival. "Welcome to our home!"
 
-we'll
-: We will. "Don't worry, we'll help you finish up."
+we’ll
+: We will. "Don’t worry, we’ll help you finish up."
 
-we're
-: We are. "We're almost there, just a short walk left."
+we’re
+: We are. "We’re almost there, just a short walk left."
 
 west
 : Cardinal direction left when facing north. "We drove west to see the Pacific Ocean."
@@ -1727,7 +1733,7 @@ wife
 : A married woman. "He went to the movies with his wife."
 
 willow
-: Tree with long, thin leaves. "The willow's branches swayed gracefully in the breeze."
+: Tree with long, thin leaves. "The willow’s branches swayed gracefully in the breeze."
 
 winter
 : Coldest season of the year. "Everything is covered in snow during winter."
@@ -1738,14 +1744,14 @@ without
 women
 : More than one female adult. "Those women are world-class athletes."
 
-won't
-: Will not. "I won't be able to attend the party tonight."
+won’t
+: Will not. "I won’t be able to attend the party tonight."
 
 worn
 : Damaged from use. "My worn out sneakers have holes now."
 
 worried
-: Troubled, concerned. "I was worried about you when you didn't call."
+: Troubled, concerned. "I was worried about you when you didn’t call."
 
 worth
 : Having value equal to cost or importance. "This antique vase is worth hundreds of dollars."
@@ -1767,17 +1773,17 @@ wrong
 yard
 : Unit of length equal to 3 feet. "Our backyard is about 50 yards wide."
 
-you'll
-: You will. "You'll really enjoy this movie!"
+you’ll
+: You will. "You’ll really enjoy this movie!"
 
 young
 : In early life or growth stages. "Lion cubs are young lions."
 
-you're
-: You are. "You're my best friend!"
+you’re
+: You are. "You’re my best friend!"
 
-you've
-: You have. "You've gotten so tall since I last saw you!"
+you’ve
+: You have. "You’ve gotten so tall since I last saw you!"
 
 ## Z
 

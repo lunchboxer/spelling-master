@@ -36,7 +36,9 @@ function getWords(wordlist) {
     const nextDescription = cleanerListLexer.shift()
     spellingListObject.description = nextDescription?.text
     const nextList = cleanerListLexer.shift()
-    spellingListObject.list = nextList?.items.map((w) => w.text.trim())
+    spellingListObject.list = nextList?.items.map((word) => {
+      return word.text.trim()
+    })
     spellingLists[weekNumber] = spellingListObject
   }
   return spellingLists
@@ -50,13 +52,13 @@ function parseGlossary(glossary) {
     .filter((l) => l.type !== 'space' && l.type !== 'heading')
   for (const term of glossaryItems) {
     const splitDefinition = term.text.split('\n')
-    // the definitions can contain single quotes or appostrophes which need to be escaped
-    glossaryObject[splitDefinition[0].trim()] = splitDefinition[1]
-      .slice(2)
-      .trim()
+    const definition = splitDefinition[1].slice(2).trim()
+    const cleanTerm = splitDefinition[0].trim()
+    glossaryObject[cleanTerm] = definition
   }
   return glossaryObject
 }
+
 /** @type {import('./$types').LayoutLoad} */
 export function load() {
   const lists = []

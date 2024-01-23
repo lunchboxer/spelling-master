@@ -70,7 +70,7 @@ Sight words, long i/o words, and academic vocabulary
 1. trade
 2. start
 3. city
-4. earth 
+4. earth
 5. hope
 6. stone
 7. follow
@@ -90,7 +90,7 @@ Sight words, blends st/str, and academic vocabulary
 
 1. upon
 2. thought
-3. gun 
+3. gun
 4. strong
 5. story
 6. burst
@@ -138,7 +138,7 @@ Sight words, gh/ph words, and academic vocabulary
 6. laughed
 7. lady
 8. enough
-9. graph 
+9. graph
 10. paragraph
 11. photograph
 12. history
@@ -173,7 +173,7 @@ Sight words, ch/tch words, and academic vocabulary
 Sight words, sh words, and academic vocabulary
 
 1. can’t
-2. shall 
+2. shall
 3. those
 4. both
 5. paper
@@ -222,7 +222,7 @@ Sight words, j sound of g, and academic vocabulary
 6. giraffe
 7. hoe
 8. stage
-9. engine 
+9. engine
 10. badge
 11. ginger
 12. arctic
@@ -508,7 +508,7 @@ vocabulary
 15. organize
 16. review
 
-## Week 25 
+## Week 25
 
 VCCV pattern words and academic
 vocabulary
@@ -584,7 +584,7 @@ academic vocabulary
 4. please
 5. action
 6. quotation
-7. hunting 
+7. hunting
 8. nation
 9. combination
 10. question
@@ -645,7 +645,7 @@ Words with suffix -able/-ably and academic vocabulary
 1. comfortable
 2. honorably
 3. erasable
-4. available 
+4. available
 5. portable
 6. laughable
 7. irritably
@@ -685,7 +685,7 @@ Y to i change words and academic vocabulary
 Contraction words and academic vocabulary
 
 1. he’s
-2. she’s 
+2. she’s
 3. didn’t
 4. isn’t
 5. you’re
@@ -718,7 +718,7 @@ Contraction words and academic vocabulary
 11. we’d
 12. she’d
 13. elapse
-14. interaction 
+14. interaction
 15. sundial
 16. atomic
 
@@ -728,7 +728,7 @@ Final -er words and academic vocabulary
 
 1. under
 2. swim
-3. never 
+3. never
 4. main
 5. center
 6. border
@@ -752,13 +752,13 @@ Final -le/-al words, and academic vocabulary
 3. final
 4. simple
 5. chuckle
-6. giggle 
+6. giggle
 7. middle
 8. signal
 9. handle
 10. candle
 11. uncle
-12. piano 
+12. piano
 13. ivory
 14. musical
 15. modify
