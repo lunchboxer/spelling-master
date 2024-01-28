@@ -1738,7 +1738,7 @@ secretary
 : Person who handles correspondence, keeps records, makes appointments. "The secretary answered the phone and scheduled appointments."
 
 sense
-: Any of the faculties by which humans and animals perceive stimuli originating outside or inside the body. "My senses of smell, taste, sight, hearing, and touch provide information about the world."
+: Any of the ways humans and animals perceive stimuli about the body or surroundings. "My senses of smell, taste, sight, hearing, and touch provide information about the world."
 
 separate
 : Set or keep apart, disunite. "We separated the recyclables into bins by type."

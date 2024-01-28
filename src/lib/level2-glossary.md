@@ -817,7 +817,7 @@ length
 : Measurement or extent from end to end. "What is the length of this room?"
 
 letter
-: Alphabet character representing sound. "C-A-T spells cat."
+: Alphabet character representing sound. "The letters C-A-T spell cat."
 
 lie
 : Say something untrue. "I will not lie, lying is wrong."
