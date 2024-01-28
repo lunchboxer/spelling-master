@@ -15,8 +15,12 @@
           class:spaced={level === '1'}
           class:tight={level === '5' || level === '4'}
         >
-          <strong>{word}</strong>{#if showDefinitions}: {glossary[word] ||
-              'no definition available'}{/if}
+          {#if showDefinitions}
+            <strong>{word}</strong>: {glossary[word] ||
+              'no definition available'}
+          {:else}
+            {word}
+          {/if}
         </li>
       {/each}
     {/if}
