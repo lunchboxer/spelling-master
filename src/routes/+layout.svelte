@@ -1,8 +1,7 @@
 <script>
   import Footer from '$lib/Footer.svelte'
   import Header from '$lib/Header.svelte'
-  // import '@picocss/pico'
-  import '../app2.css'
+  import '../app.css'
 </script>
 
 <main class="container">
