@@ -1,16 +1,15 @@
 <script>
   export let list
   export let level
-  export let week = ''
   export let glossary
   export let showDefinitions = true
 </script>
 
 {#if list}
-  <p class="no-print">{list[week]?.description}</p>
+  <p class="no-print">{list?.description}</p>
   <ol>
-    {#if list[week]}
-      {#each list[week].list as word}
+    {#if list}
+      {#each list.list as word}
         <li
           class:spaced={level === '1'}
           class:tight={level === '5' || level === '4'}

@@ -3,11 +3,10 @@
   import ListSelector from '$lib/ListSelector.svelte'
 
   export let data
-  const { lists, glossaries } = data
+  $: glossary = data.glossary
   $: week = data.week
   $: level = data.level
-  $: list = lists[level - 1]
-  $: glossary = glossaries[level - 1]
+  $: list = data.list
   let showDefinitions = true
 </script>
 

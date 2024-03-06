@@ -1,6 +1,6 @@
 <script>
   export let list
-  export let glossary
+  export let glossary = {}
   export let showDefinitions = true
 
   let searchString = ''

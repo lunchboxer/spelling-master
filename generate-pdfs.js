@@ -1,5 +1,5 @@
-import puppeteer from 'puppeteer'
 import dotenv from 'dotenv'
+import puppeteer from 'puppeteer'
 
 const LEVELS = 5
 const WEEKS = 36
@@ -15,12 +15,12 @@ const browser = await puppeteer.launch({
 
 const page = await browser.newPage()
 
-console.log('Generating PDFs for lists...')
+console.info('Generating PDFs for lists...')
 
 for (let level = 1; level <= LEVELS; level++) {
-  console.log('Generating PDFs for level ' + level)
+  console.info(`Generating PDFs for level ${level}`)
   for (let week = 1; week <= WEEKS; week++) {
-    console.log(`Generating PDFs for level ${level}, week ${week}`)
+    console.info(`Generating PDFs for level ${level}, week ${week}`)
     await page.goto(`${SERVER}/${level}/${week}`)
     await page.pdf({
       preferCSSPageSize: true,
@@ -30,6 +30,6 @@ for (let level = 1; level <= LEVELS; level++) {
     })
   }
 }
-console.log('All Done!')
+console.info('All Done!')
 
 await browser.close()

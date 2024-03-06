@@ -1,15 +1,14 @@
 <script>
   import { generate } from '@sbj42/word-search-generator'
   export let data
-  const { level, week, lists } = data
+  const { level, week, list } = data
   let width = 16
   let height = 16
   if (level === '1') {
     width = 12
     height = 12
   }
-  const list = lists[level - 1]
-  const puzzle = generate({ words: list[week]?.list, width, height })
+  const puzzle = generate({ words: list, width, height })
 
   function makeMatrix(array, size, out) {
     out = out || []

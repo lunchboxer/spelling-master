@@ -13,3 +13,13 @@ package-lock.json
 yarn.lock
 
 *.md
+*.cjs
+*.js
+*.json
+*.ts
+*.html
+*.min.css
+
+./static/wordsearches-pdf
+./static/audio
+./static/lists-pdf
