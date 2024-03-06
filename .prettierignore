@@ -20,6 +20,6 @@ yarn.lock
 *.html
 *.min.css
 
-./static/wordsearches-pdf
-./static/audio
-./static/lists-pdf
+static/wordsearches-pdf
+static/audio
+static/lists-pdf

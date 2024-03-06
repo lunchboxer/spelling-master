@@ -1,6 +1,6 @@
+import audioIndex from '$lib/audio-index.json'
 import glossaries from '$lib/glossaries.json'
 import wordLists from '$lib/words-by-week.json'
-import audioIndex from '$lib/audio-index.json'
 import { error } from '@sveltejs/kit'
 
 /** @type {import('./$types').PageLoad} */

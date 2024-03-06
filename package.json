@@ -9,7 +9,7 @@
     "preview": "vite preview",
     "check": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json",
     "check:watch": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json --watch",
-    "lint": "prettier --check . && eslint . && stylelint ./src/**/*.{css,svelte} && biome check --apply .",
+    "lint": "prettier --check . && eslint . && stylelint ./src/**/*.{css,svelte} && biome check .",
     "format": "prettier --write . && eslint . --fix && biome check --apply ."
   },
   "devDependencies": {
