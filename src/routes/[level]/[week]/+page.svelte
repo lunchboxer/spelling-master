@@ -7,6 +7,7 @@
   $: week = data.week
   $: level = data.level
   $: list = data.list
+  $: audio = data.audio
   let showDefinitions = true
 </script>
 
@@ -15,6 +16,6 @@
   <ListSelector bind:level bind:week bind:showDefinitions />
 </div>
 
-<Wordlist {level} {list} {week} {glossary} {showDefinitions} />
+<Wordlist {level} {list} {audio} {glossary} {showDefinitions} />
 
 <a href={`/${level}/${week}/wordsearch`} class="no-print">Word Search</a>

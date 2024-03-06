@@ -13,10 +13,10 @@ export function load({ params }) {
     throw error(404, 'Not found')
   }
   const levellist = wordLists[level - 1]
-  const weekList = levellist[week - 1]
+  const weekList = levellist[week]
   const glossary = glossaries[level - 1]
   return {
-    audio: audioIndex[level - 1][week - 1],
+    audio: audioIndex[level - 1][week],
     week,
     level,
     list: weekList,
